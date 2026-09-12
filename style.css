@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+header { background: #f4f4f4; padding: 15px; border-radius: 8px; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+th, td { padding: 8px; border-bottom: 1px solid #ddd; text-align: left; }
+ul { list-style: none; padding: 0; }
+li { padding: 8px; background: #fafafa; margin: 5px 0; border-radius: 5px; }
